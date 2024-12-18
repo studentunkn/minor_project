@@ -1,4 +1,4 @@
-# Using python we get only one line of DNA and get RNA and amnio acid  
+# Getting Started
 `main.py`
 ```python
 import time, RNA_encode, pro
