@@ -1,4 +1,4 @@
-# Getting Started
+# all codes
 `main.py`
 ```python
 import time, RNA_encode, pro
