@@ -1,4 +1,6 @@
-```HTML
+<pre>
+<code>
+
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -1068,4 +1070,6 @@
 </script>
 </body>
 </html>
-```
+
+</code>
+</pre>
